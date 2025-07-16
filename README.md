@@ -8,7 +8,9 @@ This is a small set of AI tools and Resources
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer)      | A AI Assistance for CLI that has good tools
 - [Devin](https://devin.ai/)  | AI Software Engineer
 - [Code Rabbit](https://www.coderabbit.ai/) | AI Assistant for Code Review and Debugging 
-- [Bolt](https://bolt.new/)  |  AI App Development Enviroment 
+- [Bolt](https://bolt.new/)  |  AI App Development Enviroment
+- [Lovable](https://lovable.dev/) | AI App Developmemt Enviroment
+- [Replit](https://replit.com/) | AI App Development Enviroment
 
 
 ## LIST OF API RESOURCES 
