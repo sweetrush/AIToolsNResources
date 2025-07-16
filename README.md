@@ -3,7 +3,7 @@ This is a small set of AI tools and Resources
 
 ## LIST OF AI TOOLS 
 
-- [n8n](https://n8n.io/)  | AI Workflow Automation Enviroment 
+
 - [Make it Heavy](https://github.com/Doriandarko/make-it-heavy)          | A multi-agent tools for working files and projects
 - [Claude Code](https://github.com/anthropics/claude-code)               | A agentic AI Codeing Tool
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer)      | A AI Assistance for CLI that has good tools
@@ -21,6 +21,7 @@ This is a small set of AI tools and Resources
 - [Vapi](https://vapi.ai/)             | AI Voice Agent API 
 
 ## LIST OF AI WORKFLOW CREATORS
+- [n8n](https://n8n.io/)  | AI Workflow Automation Enviroment 
 - [Lindy](https://www.lindy.ai/)   | For Marketing
 
 ## LIST OF AI CHAT ASSISTANT
