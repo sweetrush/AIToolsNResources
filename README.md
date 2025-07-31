@@ -23,6 +23,7 @@ This is a small set of AI tools and Resources
 ## LIST OF AI WORKFLOW CREATORS
 - [n8n](https://n8n.io/)  | AI Workflow Automation Enviroment 
 - [Lindy](https://www.lindy.ai/)   | For Marketing
+- [Google Opal](https://opal.withgoogle.com/) | AI Workflow Automation Enviroment
 
 ## LIST OF AI CHAT ASSISTANT
 - [Manus](https://manus.im/)
