@@ -7,6 +7,7 @@ This is a small set of AI tools and Resources
 - [Make it Heavy](https://github.com/Doriandarko/make-it-heavy)          | A multi-agent tools for working files and projects
 - [Claude Code](https://github.com/anthropics/claude-code)               | A agentic AI Codeing Tool
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer)      | A AI Assistance for CLI that has good tools
+- [Claude Flow](https://github.com/ruvnet/claude-flow) | A Multi-Agent Tool set that it built around Claude 
 - [Devin](https://devin.ai/)  | AI Software Engineer
 - [Code Rabbit](https://www.coderabbit.ai/) | AI Assistant for Code Review and Debugging 
 - [Bolt](https://bolt.new/)  |  AI App Development Enviroment
