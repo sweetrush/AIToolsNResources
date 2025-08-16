@@ -1,6 +1,9 @@
 # AIToolsNResources
 This is a small set of AI tools and Resources 
 
+## Claude Code Resources tools 
+  - [Claude Code Temalates](https://github.com/davila7/claude-code-templates)  | Alot of tools for Claude code CLI
+
 ## LIST OF AI TOOLS 
 
 
