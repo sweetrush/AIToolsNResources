@@ -33,6 +33,7 @@ This is a small set of AI tools and Resources
 
 ## LIST OF TTS SERVICES 
 - [Chatterbox](https://github.com/resemble-ai/chatterbox) | Open Source TTS for AI development
+- [Elevenlabs](https://elevenlabs.io/) | TTS and AI audio support 
 
 ## LIST OF AI CHAT ASSISTANT
 - [Manus](https://manus.im/)
