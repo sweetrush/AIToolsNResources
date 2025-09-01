@@ -31,6 +31,9 @@ This is a small set of AI tools and Resources
 - [Lindy](https://www.lindy.ai/)   | For Marketing
 - [Google Opal](https://opal.withgoogle.com/) | AI Workflow Automation Enviroment
 
+## LIST OF TTS SERVICES 
+- [Chatterbox](https://github.com/resemble-ai/chatterbox) | Open Source TTS for AI development
+
 ## LIST OF AI CHAT ASSISTANT
 - [Manus](https://manus.im/)
 - [openai](https://openai.com)
