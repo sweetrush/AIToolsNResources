@@ -24,6 +24,7 @@ This is a small set of AI tools and Resources
 ## LIST OF API RESOURCES 
 
 - [CometAPI](https://www.cometapi.com/)           | Text, Audio , Video - Models
+- [Fal AI](https://fal.ai/)                       | Audio, Video Router/Gateway
 - [Openrouter](https://openrouter.ai/)            | Text Only
 - [Vapi](https://vapi.ai/)             | AI Voice Agent API 
 
