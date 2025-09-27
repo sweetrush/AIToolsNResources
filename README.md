@@ -26,7 +26,8 @@ This is a small set of AI tools and Resources
 - [CometAPI](https://www.cometapi.com/)           | Text, Audio , Video - Models
 - [Fal AI](https://fal.ai/)                       | Audio, Video Router/Gateway
 - [Openrouter](https://openrouter.ai/)            | Text Only
-- [Vapi](https://vapi.ai/)             | AI Voice Agent API 
+- [Vapi](https://vapi.ai/)             | AI Voice Agent API
+- [Tavily](https://www.tavily.com/)    | AI research for using the web information for search
 
 ## LIST OF AI WORKFLOW CREATORS
 - [n8n](https://n8n.io/)  | AI Workflow Automation Enviroment 
