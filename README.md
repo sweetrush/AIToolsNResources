@@ -1,6 +1,9 @@
 # AIToolsNResources
 This is a small set of AI tools and Resources 
 
+## AI Claude Code Coding Frameworks 
+- [EveryMarketPlace](https://github.com/EveryInc/every-marketplace) | Frame work with Subagent support 
+
 ## Claude Code Resources tools 
   - [Claude Code Temalates](https://github.com/davila7/claude-code-templates)  | Alot of tools for Claude code CLI
   - [Calude Code Usage](https://ccusage.com/guide/installation) | Claude code Usage Monitor and Display 
