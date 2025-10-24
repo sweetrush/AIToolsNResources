@@ -9,8 +9,6 @@ This is a small set of AI tools and Resources
   - [Calude Code Usage](https://ccusage.com/guide/installation) | Claude code Usage Monitor and Display 
 
 ## LIST OF AI TOOLS 
-
-
 - [Make it Heavy](https://github.com/Doriandarko/make-it-heavy)          | A multi-agent tools for working files and projects
 - [Spec-Kit](https://github.com/github/spec-kit)                         | A AI tool to help with improve software Development.
 - [Claude Code](https://github.com/anthropics/claude-code)               | A agentic AI Codeing Tool
@@ -39,7 +37,8 @@ This is a small set of AI tools and Resources
 
 ## LIST OF TTS SERVICES 
 - [Chatterbox](https://github.com/resemble-ai/chatterbox) | Open Source TTS for AI development
-- [Elevenlabs](https://elevenlabs.io/) | TTS and AI audio support 
+- [Elevenlabs](https://elevenlabs.io/) | TTS and AI audio support
+- [Livekit](https://docs.livekit.io/home/) | Audio AI Agent API
 
 ## LIST OF AI CHAT ASSISTANT
 - [Manus](https://manus.im/)
