@@ -1,6 +1,9 @@
 # AIToolsNResources
 This is a small set of AI tools and Resources 
 
+## MCP servers List
+- [MCP servers](https://mcp.so/) | List of MCP Servers 
+
 ## AI Claude Code Coding Frameworks 
 - [EveryMarketPlace](https://github.com/EveryInc/every-marketplace) | Frame work with Subagent support 
 
