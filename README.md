@@ -32,6 +32,7 @@ This is a small set of AI tools and Resources
 - [Openrouter](https://openrouter.ai/)            | Text Only
 - [Vapi](https://vapi.ai/)             | AI Voice Agent API
 - [Tavily](https://www.tavily.com/)    | AI research for using the web information for search
+- [Public APIs](https://github.com/public-apis/public-apis?tab=readme-ov-file) | Huge List of API Resources 
 
 ## LIST OF AI WORKFLOW CREATORS
 - [n8n](https://n8n.io/)  | AI Workflow Automation Enviroment 
