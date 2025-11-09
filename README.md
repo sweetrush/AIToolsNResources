@@ -1,6 +1,9 @@
 # AIToolsNResources
 This is a small set of AI tools and Resources 
 
+## List of AI Learning Resources 
+- [Learning AI Resources](https://github.com/aishwaryanr/awesome-generative-ai-guide) | Useful Resource to Learn AI 
+
 ## MCP servers List
 - [MCP servers](https://mcp.so/) | List of MCP Servers 
 
