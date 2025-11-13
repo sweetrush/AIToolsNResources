@@ -33,6 +33,7 @@ This is a small set of AI tools and Resources
 
 - [CometAPI](https://www.cometapi.com/)           | Text, Audio , Video - Models
 - [Fal AI](https://fal.ai/)                       | Audio, Video Router/Gateway
+- [ZenMux](https://zenmux.ai/)                    | Text, Audio, Video - Models Gateway
 - [Openrouter](https://openrouter.ai/)            | Text Only
 - [Vapi](https://vapi.ai/)             | AI Voice Agent API
 - [Tavily](https://www.tavily.com/)    | AI research for using the web information for search
