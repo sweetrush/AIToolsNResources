@@ -22,7 +22,8 @@ This is a small set of AI tools and Resources
 - [Claude Flow](https://github.com/ruvnet/claude-flow) | A Multi-Agent Tool set that it built around Claude
 - [Claude Code Route](https://github.com/musistudio/claude-code-router)  | A Tools to Use Claude Code with Other Models or APIs
 - [Devin](https://devin.ai/)  | AI Software Engineer
-- [Code Rabbit](https://www.coderabbit.ai/) | AI Assistant for Code Review and Debugging 
+- [Code Rabbit](https://www.coderabbit.ai/) | AI Assistant for Code Review and Debugging
+- [Trae](https://www.trae.ai/pricing) | AI App Development Enviroment
 - [Bolt](https://bolt.new/)  |  AI App Development Enviroment
 - [Lovable](https://lovable.dev/) | AI App Developmemt Enviroment
 - [Replit](https://replit.com/) | AI App Development Enviroment
