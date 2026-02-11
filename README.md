@@ -19,6 +19,7 @@ This is a small set of AI tools and Resources
 - [Spec-Kit](https://github.com/github/spec-kit)                         | A AI tool to help with improve software Development.
 - [OpenClaw](https://openclaw.ai/)                                       | AI Assistant that can Run Like a Human on your Machine
 - [NanoBot](https://github.com/HKUDS/nanobot)                            | Very Light Weight AI Assistant for your Own Things
+- [PicoBot](https://github.com/louisho5/picobot)                         | Very Very Light Weight AI Assistant for your uses
 - [Claude Code](https://github.com/anthropics/claude-code)               | A agentic AI Codeing Tool
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer)      | A AI Assistance for CLI that has good tools
 - [Claude Flow](https://github.com/ruvnet/claude-flow) | A Multi-Agent Tool set that it built around Claude
