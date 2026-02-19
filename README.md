@@ -20,6 +20,7 @@ This is a small set of AI tools and Resources
 - [OpenClaw](https://openclaw.ai/)                                       | AI Assistant that can Run Like a Human on your Machine
 - [NanoBot](https://github.com/HKUDS/nanobot)                            | Very Light Weight AI Assistant for your Own Things
 - [PicoClaw](https://github.com/sipeed/picoclaw)                         | Inspired by NanoBot very very light weight Agent for IoT
+- [ZeroClaw](https://github.com/sweetrush/zeroclaw/tree/main)            | Another Light Weight Agentic Bot Setup Agent
 - [PicoBot](https://github.com/louisho5/picobot)                         | Very Very Light Weight AI Assistant for your uses
 - [ThePopeBot](https://github.com/stephengpope/thepopebot)               | More secure Version of Openclaw
 - [Claude Code](https://github.com/anthropics/claude-code)               | A agentic AI Codeing Tool
