@@ -15,6 +15,7 @@ This is a small set of AI tools and Resources
   - [Calude Code Usage](https://ccusage.com/guide/installation) | Claude code Usage Monitor and Display 
 
 ## LIST OF AI TOOLS 
+- [LiveKit](https://cloud.livekit.io/login?r=%2F)                        | Audio Front end for your AI Chatbots 
 - [Make it Heavy](https://github.com/Doriandarko/make-it-heavy)          | A multi-agent tools for working files and projects
 - [Spec-Kit](https://github.com/github/spec-kit)                         | A AI tool to help with improve software Development.
 - [OpenClaw](https://openclaw.ai/)                                       | AI Assistant that can Run Like a Human on your Machine
@@ -36,7 +37,7 @@ This is a small set of AI tools and Resources
 
 
 ## LIST OF API RESOURCES 
-
+- [Yuan Labs](https://yuanlab.ai/)                | 1000B Context Model for AI 
 - [CometAPI](https://www.cometapi.com/)           | Text, Audio , Video - Models
 - [Fal AI](https://fal.ai/)                       | Audio, Video Router/Gateway
 - [ZenMux](https://zenmux.ai/)                    | Text, Audio, Video - Models Gateway
