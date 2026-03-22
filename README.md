@@ -2,7 +2,19 @@
 This is a small set of AI tools and Resources 
 
 ## List of AI Learning Resources 
-- [Learning AI Resources](https://github.com/aishwaryanr/awesome-generative-ai-guide) | Useful Resource to Learn AI 
+- [Learning AI Resources](https://github.com/aishwaryanr/awesome-generative-ai-guide) | Useful Resource to Learn AI
+
+- [𝗔𝗻𝘁𝗵𝗿𝗼𝗽𝗶𝗰] (https://lnkd.in/e5fK7QUA) | Learning Materials at Anthropic 
+- [𝗚𝗼𝗼𝗴𝗹𝗲] (http://grow.google/ai) | Learning Materials at Google 
+- [𝗠𝗲𝘁𝗮] (https://lnkd.in/et6wz-ta) | Learning materials at Meta
+- [𝗡𝗩𝗜𝗗𝗜𝗔] (https://lnkd.in/e8aHmFxc (GOATed)) | Learning Materials at NVIDIA
+- [𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁] (https://lnkd.in/ej85NeZc ) | Learning materials at Microsoft
+- [𝗢𝗽𝗲𝗻𝗔𝗜] (http://academy.openai.com) | Learning materials at OpenAI 
+- [𝗜𝗕𝗠] (http://skillsbuild.org) | Learning materials at IBM
+- [𝗔𝗪𝗦] (http://skillbuilder.aws) | Learning materials at AWS
+- [𝗗𝗲𝗲𝗽𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴𝗔𝗜] (http://deeplearning.ai) | Learning materials at Deeplearning
+- [𝗛𝘂𝗴𝗴𝗶𝗻𝗴 𝗙𝗮𝗰𝗲] (https://lnkd.in/eajVCrvv) | Learning Materials at DeepLearning
+
 
 ## MCP servers List
 - [MCP servers](https://mcp.so/) | List of MCP Servers 
