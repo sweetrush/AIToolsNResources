@@ -72,3 +72,7 @@ This is a small set of AI tools and Resources
 - [Manus](https://manus.im/)
 - [openai](https://openai.com)
 - [Google-Gemini](https://gemini.google.com/app)
+
+## LIST OF AI FOR Security 
+- [talon](https://github.com/taylorwalton/talon)   | a AI SOC analysist
+  
