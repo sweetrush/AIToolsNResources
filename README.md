@@ -76,4 +76,5 @@ This is a small set of AI tools and Resources
 
 ## LIST OF AI FOR Security 
 - [talon](https://github.com/taylorwalton/talon)   | a AI SOC analysist
+- [GODMOD3](https://github.com/elder-plinius/G0DM0D3) | Set up an Unsensored AI Chat
   
