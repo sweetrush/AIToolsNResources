@@ -41,6 +41,7 @@ This is a small set of AI tools and Resources
 - [Claude Engineer](https://github.com/Doriandarko/claude-engineer)      | A AI Assistance for CLI that has good tools
 - [Claude Flow](https://github.com/ruvnet/claude-flow) | A Multi-Agent Tool set that it built around Claude
 - [Claude Code Route](https://github.com/musistudio/claude-code-router)  | A Tools to Use Claude Code with Other Models or APIs
+- [OmiRoute](https://github.com/diegosouzapw/OmniRoute)                  | A Tool for Routing to LLMs for free Models
 - [Devin](https://devin.ai/)  | AI Software Engineer
 - [Code Rabbit](https://www.coderabbit.ai/) | AI Assistant for Code Review and Debugging
 - [Trae](https://www.trae.ai/pricing) | AI App Development Enviroment
